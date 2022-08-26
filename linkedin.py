@@ -20,8 +20,8 @@ def has_numbers(inputString):
 keyword = input("ใส่ keyword : ")
 filename = input("กรุณาใส่ชื่อไฟล์ : ")
 
-username = 'kevinangas@gmail.com'
-passwordx = 'Mikey131998'
+username = 'xxxx@gmail.com'
+passwordx = 'xxxx'
 #n = int(input("ใส่จำนวนคนที่จะดึง : "))
 driver = webdriver.Chrome(ChromeDriverManager().install())
 
